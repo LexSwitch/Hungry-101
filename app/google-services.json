@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1021596108417",
+    "firebase_url": "https://hungry-101.firebaseio.com",
+    "project_id": "hungry-101",
+    "storage_bucket": "hungry-101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021596108417:android:9981d0617a24900fd0af80",
+        "android_client_info": {
+          "package_name": "com.nalexander240.hungry101"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021596108417-9pa1pvfbgs3hmomim6j2uq5fdu1slq20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nalexander240.hungry101",
+            "certificate_hash": "221fa5e31ecdb9e3b46c9628d988864d2ad44cf7"
+          }
+        },
+        {
+          "client_id": "1021596108417-i5f7msn1qa28mrqc39jv1ko8vl5khvdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrF-JrbaGr-l7XdYRfLtnU0rABMgzrqUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021596108417-i5f7msn1qa28mrqc39jv1ko8vl5khvdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
